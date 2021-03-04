@@ -34,7 +34,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Poyii\\": "src/"
+      "Poyii\\": "src/Poyii"
     }
   },
   "minimum-stability": "dev",
